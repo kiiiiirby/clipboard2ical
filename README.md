@@ -2,7 +2,7 @@
 Written for the timetable format of Singapore Institute of Management in SIMConnect. Takes the list format of the timetable and
 output a iCalender file, ready to be imported to your calender of choice.
 
-<img src="https://onesim-prod.s3.ap-southeast-1.amazonaws.com/onesim/media/ge-sim-ge/simgelogo.png" width="350">
+<img src="https://onesim-prod.s3.ap-southeast-1.amazonaws.com/onesim/media/ge-sim-ge/simgelogo.png" width="300">
 
 ## How It's Made:
 
