@@ -4,7 +4,7 @@ Written for the timetable format of Singapore Institute of Management in SIMConn
 output a iCalender file, ready to be imported to your calender of choice.
 
 
-<img src="https://onesim-prod.s3.ap-southeast-1.amazonaws.com/onesim/media/ge-sim-ge/simgelogo.png" width="300">
+<img src="https://onesim-prod.s3.ap-southeast-1.amazonaws.com/onesim/media/ge-sim-ge/simgelogo.png" width="250">
 
 ## How It's Made:
 
