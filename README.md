@@ -23,3 +23,4 @@ This is an example of a timetable format found on SIMConnect which is the only f
 
 ## Usage:
 When prompted, copy the timetable from SIMConnect onto your clipboard. Enter the desired name of the created iCalendar file and import it into your calendar of choice. 
+<img src="https://github.com/haubinhui/clipboard2ical/blob/main/Screenshot.png?raw=true">
