@@ -1,4 +1,5 @@
 # Clipboard2iCal
+<img src="https://img.shields.io/github/license/haubinhui/clipboard2ical">
 Written for the timetable format of Singapore Institute of Management in SIMConnect. Takes the list format of the timetable and
 output a iCalender file, ready to be imported to your calender of choice.
 
