@@ -9,7 +9,7 @@ from pyperclip import waitForNewPaste
 cal = Calendar()
 
 # Some properties are required to be compliant
-cal.add('prodid', '-//Clipboard To iCal//https://github.com/haubinhui/clipboard2ical//')
+cal.add('prodid', '-//Clipboard To iCal//https://github.com/kiiiiirby/clipboard2ical//')
 cal.add('version', '2.0')
 
 print("""
@@ -17,7 +17,7 @@ print("""
 |              Clipboard2iCal               |
 |      Export clipboard to iCal file.       |
 |                                           |
-|https://github.com/haubinhui/clipboard2ical|
+|https://github.com/kiiiiirby/clipboard2ical|
 |-------------------------------------------|
 """)
 
