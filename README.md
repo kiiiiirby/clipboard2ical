@@ -13,7 +13,7 @@ output a iCalender file, ready to be imported to your calender of choice.
 Makes use of the [iCalendar](https://pypi.org/project/icalendar/) to create iCalendar events and [Pyperclip](https://pypi.org/project/pyperclip/) to collect clipboard input.
 
 ## Example:
-This is an example of a timetable format found on SIMConnect which is the only supported format.
+This is an example of a timetable format found on SIMConnect.
 
 **CSIT 115 - Data Management & Security**
 | Class Nbr | Section | Component | Days & Times | Room | Start/End Date |
